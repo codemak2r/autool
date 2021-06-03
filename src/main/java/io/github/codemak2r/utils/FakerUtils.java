@@ -1,7 +1,8 @@
 package io.github.codemak2r.utils;
 
 /**
- * @author: zhongwei.wen
+ * @author: zw.wen
  */
 public class FakerUtils {
+
 }
